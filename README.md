@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Qusai Sakerwala
 
-**Full Stack Developer | AI/ML Enthusiast | Open Source Contributor**
+**Full Stack Developer | AI/ML Enthusiast**
 
 I build scalable web applications and AI-powered tools that solve real-world problems. Currently working on innovative solutions combining web automation, AI, and data processing.
 
